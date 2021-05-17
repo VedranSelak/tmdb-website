@@ -1,3 +1,3 @@
-export const APIKEY = "998f959303531cf7b9ecac675bbe488f";
+export const APIKEY = "";
 export const BASE_URL = 'https://api.themoviedb.org/3/';
-export const POSTER_BASE_URL = "https://image.tmdb.org/t/p/w185/"
+export const IMAGE_BASE_URL = "https://image.tmdb.org/t/p/";
